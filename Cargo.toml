@@ -1,0 +1,8 @@
+[package]
+name = "circles"
+version = "0.1.0"
+authors = ["Brett V. Forsgren <brett.forsgren@outlook.com>"]
+
+[dependencies]
+image = "*"
+rand = "*"
